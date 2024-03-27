@@ -17,8 +17,8 @@ You create a repo through github
 Go on git, get the SSH key, go to terminal, when in terminal put 'git clone (ssh key)' then press enter.
 
 
+
 I like cheese
 
 YUHHHHHH
-=======
 
