@@ -15,3 +15,5 @@ Local is what you have on your system while remote is online; not on your comput
 You create a repo through github
 
 Go on git, get the SSH key, go to terminal, when in terminal put 'git clone (ssh key)' then press enter.
+
+I like cheese
